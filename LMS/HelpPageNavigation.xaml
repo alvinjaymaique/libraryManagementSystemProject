@@ -1,0 +1,77 @@
+﻿<Window x:Class="LMS.HelpPageNavigation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LMS"
+        mc:Ignorable="d"
+        Title="HelpPageNavigation" Height="520" Width="400" Background="#fffce6" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+       
+        <Image Source="/9.png" 
+               Width="95" 
+               Height="80" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Top" Margin="305,10,0,0" 
+               Grid.RowSpan="2" IsHitTestVisible="False" />
+
+        <Image Source="11.png" 
+               Width="197" 
+               Height="152" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Bottom" Margin="237,0,0,-6"  
+               IsHitTestVisible="False" />
+
+        <Image Source="12.png" 
+               Width="197" 
+               Height="152" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Bottom" Margin="-53,0,0,352"  
+               IsHitTestVisible="False" />
+
+        <!-- Main Content StackPanel -->
+        <StackPanel Margin="30,30,30,20">
+
+            <!-- Main Header with Center Alignment -->
+            <Label FontSize="20" FontWeight="Bold" Content="Help Page" 
+                   VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <!-- Navigation Instructions with Center Alignment -->
+            <Label FontWeight="Bold" Content="Navigation Instructions" HorizontalAlignment="Center"/>
+            <Label HorizontalAlignment="Center">
+                <TextBlock>
+                    After logging in, you can navigate the system using the menu at the top of the page. The following options are available:
+                </TextBlock>
+            </Label>
+
+            <!-- Menu Options Section with Center Alignment -->
+            <StackPanel Margin="10,0,0,0">
+                <Label Content="• View Available Books - Browse the library catalog and search for available books." HorizontalAlignment="Center"/>
+                <Label Content="• Borrow Books - Select and borrow books from the library." HorizontalAlignment="Center"/>
+                <Label Content="• Return Books - Return books you have borrowed." HorizontalAlignment="Center"/>
+                <Label Content="• View Borrowing History - Check your borrowing history and due dates." HorizontalAlignment="Center"/>
+                <Label Content="• Logout - Log out of the system and return to the login page." HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <!-- Additional Help Section with Center Alignment -->
+            <Label HorizontalAlignment="Center" Margin="0,0,0,10">
+                <TextBlock HorizontalAlignment="Center" 
+           Margin="0,10,0,0">
+    <Run Text="For further assistance, please contact the library support team at "/>
+    <Hyperlink NavigateUri="RegisterForm.xaml" 
+               RequestNavigate="Hyperlink_RequestNavigate" 
+               Foreground="#2196F3">
+        GroupGwapings@library.com.
+    </Hyperlink>
+                </TextBlock>
+            </Label>
+
+            <!-- Navigation Buttons with Center Alignment -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20,0">
+                <Button x:Name="PreviousButton2" Content="Previous" Height="30" Width="80" Margin="-90,0,0,0" Click="PreviousButton2_Click"/>
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+﻿<Window x:Class="LMS.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LMS"
+        mc:Ignorable="d"
+        Title="About" Height="670" Width="520" Background="#fffce6" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Border>
+            <StackPanel Margin="10,10,10,10">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="About Us" FontSize="40" FontWeight="Bold" Margin="150,0,0,0"></Label>
+                    <Button Content="Back" Height="25" Width="50" Margin="90,0,0,0" Click="Button_Click"></Button>
+                    <Image Source="/9.png" Width="95" Height="80" Margin="-800,10,0,0" IsHitTestVisible="False" />
+                </StackPanel>
+                
+                <Label>
+                    <TextBlock TextAlignment="Justify" FontSize="15" Width="470">
+            We are the Students of Bachelor of Science in Computer Engineering (BSCpE) in Cebu Technological University - Main (CTU - Main). This system is a product for our final project in Software Development with our advisor as Engr. David Matthew Derit.
+                    </TextBlock>
+                </Label>
+
+                
+                <!--Members-->
+                <StackPanel Orientation="Horizontal" Margin="10,20,10,30" HorizontalAlignment="Center">
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+
+                        <!--Lonielita-->
+                        <Label Content="Alingasa Loniel" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="BackEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="lonil.jpg" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False"/>
+
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+                        <!--Bronolita-->
+                        <Label Content="Adrian Carl Bronola" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="FrontEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="Adrian.jpg" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False" Stretch="UniformToFill"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+                        <!--Enolpelita-->
+                        <Label Content="John Jed Enolpe" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="FrontEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="jed.jpg" Stretch="UniformToFill" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False"/>
+                    </StackPanel>
+
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+                        <!--Hindoylita-->
+                        <Label Content="Shielou Mae Hindoy" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="FrontEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="shelo.png" Stretch="UniformToFill" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+                        <!--Maiquelita-->
+                        <Label Content="Alvin Jay Maique" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="BackEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="alvin.jpg" Stretch="UniformToFill" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Vertical" Margin="0,0,5,0">
+                        <!--Artorlita-->
+                        <Label Content="Arthur John Pinili" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                        <Label Content="FrontEnd Developer" FontSize="12" HorizontalAlignment="Center"></Label>
+                        <Image Source="arthur.jpg" Stretch="UniformToFill" Width="136" Height="126" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1"  IsHitTestVisible="False"/>
+                    </StackPanel>
+                </StackPanel>
+
+
+
+
+
+
+
+
+
+
+            </StackPanel>
+        </Border>
+        
+    </Grid>
+</Window>

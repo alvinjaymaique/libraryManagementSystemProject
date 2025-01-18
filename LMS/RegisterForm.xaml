@@ -1,0 +1,191 @@
+﻿<Page x:Class="LMS.RegisterForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Register">
+    <Grid Background="Black" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="400" Height="600">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="206*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Border for the registration form -->
+        <Border Width="400"
+                Height="600"
+                Background="#fffce6"
+                CornerRadius="10"
+                BorderBrush="Black"
+                BorderThickness="1"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top" Grid.RowSpan="2">
+            <StackPanel Margin="30">
+                <!-- Title -->
+                <TextBlock Text="Create Account"
+                           FontSize="30"
+                           FontWeight="Bold"
+                           HorizontalAlignment="Center"
+                           Foreground="#2196F3"
+                           Margin="0,20,0,30"/>
+
+                <!-- Username Section -->
+                <Grid Margin="0,0,0,20">
+                    <!-- Username TextBox -->
+                    <TextBox x:Name="UsernameTextBox" 
+                             Height="45" 
+                             Padding="35,0,0,0" 
+                             FontSize="14"
+                             BorderBrush="#ddd" 
+                             BorderThickness="1"
+                             VerticalContentAlignment="Center"
+                             GotFocus="UsernameTextBox_GotFocus" 
+                             LostFocus="UsernameTextBox_LostFocus"/>
+                    <!-- Username Icon -->
+                    <Image Source="userpic.png" 
+                           Width="20" 
+                           Height="20" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left" 
+                           Margin="10,0,0,0"/>
+                    <!-- Username Placeholder -->
+                    <TextBlock x:Name="UsernamePlaceholder" 
+                               Text="Username" 
+                               Foreground="Gray" 
+                               VerticalAlignment="Center" 
+                               Margin="35,0,0,0"
+                               IsHitTestVisible="False"/>
+                </Grid>
+
+                <!-- Password Section -->
+                <Grid Margin="0,0,0,20">
+                    <!-- PasswordBox -->
+                    <PasswordBox x:Name="PasswordBox" 
+                                 Height="45" 
+                                 Padding="35,0,0,0" 
+                                 FontSize="14"
+                                 BorderBrush="#ddd" 
+                                 BorderThickness="1"
+                                 VerticalContentAlignment="Center"
+                                 GotFocus="PasswordBox_GotFocus" 
+                                 LostFocus="PasswordBox_LostFocus"/>
+                    <!-- Password Icon -->
+                    <Image Source="lock.png" 
+                           Width="20" 
+                           Height="20" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left" 
+                           Margin="10,0,0,0"/>
+                    <!-- Password Placeholder -->
+                    <TextBlock x:Name="PasswordPlaceholder" 
+                               Text="Password" 
+                               Foreground="Gray" 
+                               VerticalAlignment="Center" 
+                               Margin="35,0,0,0"
+                               IsHitTestVisible="False"/>
+                </Grid>
+
+                <!-- Retype Password Section -->
+                <Grid Margin="0,0,0,20">
+                    <!-- Retype PasswordBox -->
+                    <PasswordBox x:Name="RetypePasswordBox" 
+                                 Height="45" 
+                                 Padding="35,0,0,0" 
+                                 FontSize="14"
+                                 BorderBrush="#ddd" 
+                                 BorderThickness="1"
+                                 VerticalContentAlignment="Center"
+                                 GotFocus="RetypePasswordBox_GotFocus" 
+                                 LostFocus="RetypePasswordBox_LostFocus"/>
+                    <!-- Retype Password Icon -->
+                    <Image Source="lock.png" 
+                           Width="20" 
+                           Height="20" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left" 
+                           Margin="10,0,0,0"/>
+                    <!-- Retype Password Placeholder -->
+                    <TextBlock x:Name="RetypePasswordPlaceholder" 
+                               Text="Retype Password" 
+                               Foreground="Gray" 
+                               VerticalAlignment="Center" 
+                               Margin="35,0,0,0"
+                               IsHitTestVisible="False"/>
+                </Grid>
+
+                <!-- Email Section -->
+                <Grid Margin="0,0,0,20">
+                    <!-- Email TextBox -->
+                    <TextBox x:Name="EmailTextBox" 
+                             Height="45" 
+                             Padding="35,0,0,0" 
+                             FontSize="14"
+                             BorderBrush="#ddd" 
+                             BorderThickness="1"
+                             VerticalContentAlignment="Center"
+                             GotFocus="EmailTextBox_GotFocus" 
+                             LostFocus="EmailTextBox_LostFocus"/>
+                    <!-- Email Icon -->
+                    <Image Source="email.png" 
+                           Width="20" 
+                           Height="20" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Left" 
+                           Margin="10,0,0,0"/>
+                    <!-- Email Placeholder -->
+                    <TextBlock x:Name="EmailPlaceholder" 
+                               Text="Email" 
+                               Foreground="Gray" 
+                               VerticalAlignment="Center" 
+                               Margin="35,0,0,0"
+                               IsHitTestVisible="False"/>
+                </Grid>
+
+                <!-- Role Selection -->
+                <ComboBox x:Name="RoleComboBox" 
+                          Height="45"
+                          FontSize="14"
+                          Padding="10,0,0,0"
+                          Margin="0,0,0,30">
+                    <ComboBoxItem Content="Admin"/>
+                    <ComboBoxItem Content="User"/>
+                </ComboBox>
+
+                <!-- Register Button -->
+                <Button Content="Register" 
+                        Height="45"
+                        FontSize="16"
+                        Background="#2196F3"
+                        Foreground="White"
+                        BorderBrush="Transparent"
+                        Click="RegisterButton_Click"
+                        HorizontalAlignment="Stretch"
+                        Margin="0,10,0,0"/>
+
+                <!-- Error Message -->
+                <TextBlock x:Name="ErrorMessageTextBlock" 
+                           Foreground="Red" 
+                           TextWrapping="Wrap" 
+                           TextAlignment="Center" 
+                           Margin="0,5"
+                           Visibility="Collapsed"/>
+
+                <!-- Login Link -->
+                <TextBlock HorizontalAlignment="Center" 
+                           Margin="0,20,0,0">
+                    <Run Text="Already have an account?"/>
+                    <Hyperlink NavigateUri="LoginForm.xaml" 
+                               RequestNavigate="Hyperlink_RequestNavigate" 
+                               Foreground="#2196F3">
+                        Login now!
+                    </Hyperlink>
+                </TextBlock>
+            </StackPanel>
+        </Border>
+
+        <!-- Background Images -->
+
+        <Image Source="/9.png" 
+               Width="95" 
+               Height="80" 
+               HorizontalAlignment="Left" 
+               VerticalAlignment="Top" Margin="305,10,0,0" Grid.RowSpan="2" IsHitTestVisible="False" />
+    </Grid>
+</Page>

@@ -1,0 +1,56 @@
+﻿<Window x:Class="LMS.AddPatronWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LMS"
+        mc:Ignorable="d"
+        Title="Add New Patron" Height="600" Width="500" MinHeight="600" MinWidth="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Form Inputs -->
+        <StackPanel>
+            <TextBlock Text="Full Name:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="FullNameTextBox" Height="35" Padding="8,8,0,0"/>
+
+            <TextBlock Text="Membership ID:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="MembershipIDTextBox" Height="35" Padding="8,8,0,0" IsEnabled="False"/>
+
+            <TextBlock Text="Email:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="EmailTextBox" Height="35" Padding="8,8,0,0"/>
+
+            <TextBlock Text="Phone Number:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="PhoneNumberTextBox" Height="35" Padding="8,8,0,0"/>
+
+            <TextBlock Text="Address:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="AddressTextBox" Height="35" Padding="8,8,0,0"/>
+
+            <TextBlock Text="Date of Birth:" Margin="0,5" FontWeight="SemiBold"/>
+            <TextBox x:Name="DateOfBirthTextBox" Height="35" Padding="8,8,0,0"/>
+
+            <TextBlock Text="Membership Type:" Margin="0,5" FontWeight="SemiBold"/>
+            <ComboBox x:Name="MembershipTypeComboBox" Height="35" Margin="0,5">
+                <ComboBoxItem>Standard</ComboBoxItem>
+                <ComboBoxItem>Premium</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+            <Button Content="Cancel" 
+                    Style="{StaticResource DangerButton}"
+                    Width="100" Height="35" 
+                    Margin="5" 
+                    Click="Cancel_Click" />
+            <Button Content="Add" 
+                    Style="{StaticResource SuccessButton}"
+                    Width="100" Height="35" 
+                    Margin="5" 
+                    Click="Add_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

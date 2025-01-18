@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\reportandanalyticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:reportandanalyticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\reportandanalyticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:reportandanalyticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\bookmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:bookmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|d:\\backup\\4th year 2024-2025\\software development 3\\finalproject\\librarymanagementsystem\\lms\\patronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:patronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\transactionmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:transactionmanagementpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\transactionmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:transactionmanagementpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\checkedoutbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:checkedoutbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\helppagenavigation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:helppagenavigation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:loginform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\loginregisterform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:loginregisterform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\loginregisterform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:loginregisterform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\bookmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:bookmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\helppagenavigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:helppagenavigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\editbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:editbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\helppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:helppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\helppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:helppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\addpatronwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:addpatronwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\patronmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:patronmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:registerform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\patronactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:patronactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\editpatronwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:editpatronwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\editbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:editbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:registerform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\editpatronwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049DACD1-3964-47DF-B2DA-D129852EA5CB}|LMS.csproj|solutionrelative:editpatronwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionManagementPage.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManagementPage.xaml",
+              "RelativeDocumentMoniker": "TransactionManagementPage.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManagementPage.xaml",
+              "RelativeToolTip": "TransactionManagementPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T16:47:39.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportAndAnalyticsPage.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportAndAnalyticsPage.xaml",
+              "RelativeDocumentMoniker": "ReportAndAnalyticsPage.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportAndAnalyticsPage.xaml*",
+              "RelativeToolTip": "ReportAndAnalyticsPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T16:20:55.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginForm.xaml.cs",
+              "RelativeDocumentMoniker": "LoginForm.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginForm.xaml.cs",
+              "RelativeToolTip": "LoginForm.xaml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwIYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:55:45.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportAndAnalyticsPage.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportAndAnalyticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ReportAndAnalyticsPage.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportAndAnalyticsPage.xaml.cs",
+              "RelativeToolTip": "ReportAndAnalyticsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:38:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatronManager.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronManager.cs",
+              "RelativeDocumentMoniker": "PatronManager.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronManager.cs",
+              "RelativeToolTip": "PatronManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADABAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:31:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManager.cs",
+              "RelativeDocumentMoniker": "BookManager.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManager.cs",
+              "RelativeToolTip": "BookManager.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAowMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:31:46.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManagementWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagementWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManagementWindow.xaml.cs",
+              "RelativeToolTip": "BookManagementWindow.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwHwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:15:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportManager.cs",
+              "RelativeDocumentMoniker": "ReportManager.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\ReportManager.cs",
+              "RelativeToolTip": "ReportManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:09:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionManagementPage.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManagementPage.xaml.cs",
+              "RelativeDocumentMoniker": "TransactionManagementPage.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManagementPage.xaml.cs",
+              "RelativeToolTip": "TransactionManagementPage.xaml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAawKoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:59:09.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginForm.xaml",
+              "RelativeDocumentMoniker": "LoginForm.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginForm.xaml",
+              "RelativeToolTip": "LoginForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T06:53:39.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookManagementWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManagementWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagementWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\BookManagementWindow.xaml",
+              "RelativeToolTip": "BookManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T19:51:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "TransactionManager.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionManager.cs",
+              "RelativeToolTip": "TransactionManager.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAD4v3kAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:23:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HelpPageNavigation.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPageNavigation.xaml.cs",
+              "RelativeDocumentMoniker": "HelpPageNavigation.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPageNavigation.xaml.cs",
+              "RelativeToolTip": "HelpPageNavigation.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:24:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T05:58:35.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T19:48:23.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\About.xaml",
+              "RelativeDocumentMoniker": "About.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\About.xaml",
+              "RelativeToolTip": "About.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-31T07:17:40.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:31:22.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddPatronWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AddPatronWindow.xaml",
+              "RelativeDocumentMoniker": "AddPatronWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AddPatronWindow.xaml",
+              "RelativeToolTip": "AddPatronWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T02:44:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HelpPage.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPage.xaml.cs",
+              "RelativeDocumentMoniker": "HelpPage.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPage.xaml.cs",
+              "RelativeToolTip": "HelpPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:24:15.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HelpPage.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPage.xaml",
+              "RelativeDocumentMoniker": "HelpPage.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPage.xaml",
+              "RelativeToolTip": "HelpPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-31T06:18:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddBookWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AddBookWindow.xaml",
+              "RelativeDocumentMoniker": "AddBookWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AddBookWindow.xaml",
+              "RelativeToolTip": "AddBookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T03:37:38.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRegisterForm.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginRegisterForm.xaml",
+              "RelativeDocumentMoniker": "LoginRegisterForm.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginRegisterForm.xaml",
+              "RelativeToolTip": "LoginRegisterForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T19:04:12.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRegisterForm.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginRegisterForm.xaml.cs",
+              "RelativeDocumentMoniker": "LoginRegisterForm.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\LoginRegisterForm.xaml.cs",
+              "RelativeToolTip": "LoginRegisterForm.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:45:11.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckedOutBook.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\CheckedOutBook.cs",
+              "RelativeDocumentMoniker": "CheckedOutBook.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\CheckedOutBook.cs",
+              "RelativeToolTip": "CheckedOutBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:52:57.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HelpPageNavigation.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPageNavigation.xaml",
+              "RelativeDocumentMoniker": "HelpPageNavigation.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\HelpPageNavigation.xaml",
+              "RelativeToolTip": "HelpPageNavigation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-31T06:18:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\About.xaml.cs",
+              "RelativeDocumentMoniker": "About.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\About.xaml.cs",
+              "RelativeToolTip": "About.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:17:04.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PatronManagementWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronManagementWindow.xaml",
+              "RelativeDocumentMoniker": "PatronManagementWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronManagementWindow.xaml",
+              "RelativeToolTip": "PatronManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-30T04:10:39.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterForm.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\RegisterForm.xaml",
+              "RelativeDocumentMoniker": "RegisterForm.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\RegisterForm.xaml",
+              "RelativeToolTip": "RegisterForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-29T16:56:26.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "TransactionHistory.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\TransactionHistory.cs",
+              "RelativeToolTip": "TransactionHistory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:44:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AccountManager.cs",
+              "RelativeDocumentMoniker": "AccountManager.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\AccountManager.cs",
+              "RelativeToolTip": "AccountManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:42:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:04:32.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterForm.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\RegisterForm.xaml.cs",
+              "RelativeDocumentMoniker": "RegisterForm.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\RegisterForm.xaml.cs",
+              "RelativeToolTip": "RegisterForm.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAI4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:56:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:26:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T18:42:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PatronActivity.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronActivity.cs",
+              "RelativeDocumentMoniker": "PatronActivity.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\PatronActivity.cs",
+              "RelativeToolTip": "PatronActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T11:05:19.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditBookWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditBookWindow.xaml",
+              "RelativeDocumentMoniker": "EditBookWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditBookWindow.xaml",
+              "RelativeToolTip": "EditBookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-21T11:30:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditPatronWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditPatronWindow.xaml",
+              "RelativeDocumentMoniker": "EditPatronWindow.xaml",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditPatronWindow.xaml",
+              "RelativeToolTip": "EditPatronWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-23T05:35:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditBookWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditBookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditBookWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditBookWindow.xaml.cs",
+              "RelativeToolTip": "EditBookWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:40:23.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditPatronWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditPatronWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EditPatronWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\4th Year 2024-2025\\Software Development 3\\FinalProject\\LibraryManagementSystem\\LMS\\EditPatronWindow.xaml.cs",
+              "RelativeToolTip": "EditPatronWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:02:57.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
